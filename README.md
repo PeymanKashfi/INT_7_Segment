@@ -39,7 +39,6 @@ The system clock is configured to run at 80 MHz.
 | Function | STM32 Pin |
 |----------|-----------|
 | User Button | PC13 |
-| Green LED | PA5 |
 
 ### EXTI Configuration
 
